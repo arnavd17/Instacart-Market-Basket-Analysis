@@ -29,8 +29,8 @@ The task at hand for Instacart is two fold.
 
 ## REPOSITORY DETAILS
 Access -
-1. [Final Presentation - Summary of Approach and Results](https://github.com/vavaidya/instacart-segmentation-assoc-rules/blob/master/Instacart%20-%20Customer%20Segmentation%20%26%20Association%20Rule%20Mining.pdf)
-2. [EDA](https://github.com/vavaidya/instacart-segmentation-assoc-rules/blob/master/Instacart_EDA.ipynb)
-3. [PCA and kmeans](https://github.com/vavaidya/instacart-segmentation-assoc-rules/blob/master/Customer_Segmentation%20-%20Instacart.ipynb)
-4. [Association Rule Mining - Generators](https://github.com/vavaidya/instacart-segmentation-assoc-rules/blob/master/Association_rule_mining%20-%20Generators.ipynb)
-5. [3 Customer Segments](https://github.com/vavaidya/instacart-segmentation-assoc-rules/blob/master/Customer_Segments%20-%20v2%20-%203Clusters.txt)
+1. [Final Presentation - Summary of Approach and Results](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Instacart%20-%20Customer%20Segmentation%20%26%20Association%20Rule%20Mining.pdf)
+2. [EDA](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Instacart_EDA.ipynb)
+3. [PCA and kmeans](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Customer_Segmentation%20-%20Instacart.ipynb)
+4. [Association Rule Mining - Generators](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Association_rule_mining%20-%20Generators.ipynb)
+5. [3 Customer Segments](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Customer_Segments%20-%20v2%20-%203Clusters.txt)
