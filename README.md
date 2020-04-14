@@ -33,4 +33,4 @@ Access -
 2. [EDA](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Instacart_EDA.ipynb)
 3. [PCA and kmeans](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Customer_Segmentation%20-%20Instacart.ipynb)
 4. [Association Rule Mining - Generators](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Association_rule_mining%20-%20Generators.ipynb)
-5. [3 Customer Segments](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Customer_Segments%20-%20v2%20-%203Clusters.txt)
+5. [Customer Segments](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Customer_Segments%20-%20v2%20-%203Clusters.txt)
